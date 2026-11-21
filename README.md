@@ -10,6 +10,7 @@ This repo has following purpose
 1. Purpose 1
 2. Purpose 2
 3. Purpose 3
+
 ''' Powershell
 get azuresubscription
 '''
