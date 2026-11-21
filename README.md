@@ -20,3 +20,11 @@ get -azuresubscription
 | Firstnme | Lastname | E-mail |
 |----------|----------|---------|
 | Venu     | Gopala   | venuuvce51@gamil.com|
+
+```mermaid
+graph TD;
+A-->B;
+A-->C;
+B-->D
+C-->D;
+```
