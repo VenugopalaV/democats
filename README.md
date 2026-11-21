@@ -11,6 +11,6 @@ This repo has following purpose
 2. Purpose 2
 3. Purpose 3
 
-''' Powershell
-get azuresubscription
+'''powershell
+get -azuresubscription
 '''
