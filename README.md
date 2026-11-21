@@ -1,6 +1,6 @@
-#Welcome to my democats project
+# Welcome to my democats project
 
-##Summary
+## Summary
 
 Welcome to the **deomcts demo** repo!
 
