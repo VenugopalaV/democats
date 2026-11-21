@@ -16,4 +16,7 @@ get -azuresubscription
 ```
 4. purpose 4
 5. purpose 6
-6. 
+
+| Firstnme | Lastname | E-mail |
+|----------|----------|---------|
+| Venu     | Gopala   | venuuvce51@gamil.com|
